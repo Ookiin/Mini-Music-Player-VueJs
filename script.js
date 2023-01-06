@@ -1,4 +1,4 @@
- // Creditos del codigo original a Muhammed --- https://github.com/muhammederdem/mini-player
+
 
 
 new Vue({
